@@ -1,4 +1,4 @@
-package com.cloudy.dubbo.demo.impl;
+package com.cloudy.dubbo.impl;
 
 import com.cloudy.dubbo.demo.DemoService;
 
